@@ -1,0 +1,18 @@
+# Compiled Java classes
+*.class
+bin/
+
+# Generated Javadocs
+docs/
+
+# Mac system files
+.DS_Store
+__MACOSX/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
